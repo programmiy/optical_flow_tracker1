@@ -1,7 +1,7 @@
 
 ---
 
-# **FlowFinder**
+# **optical_flow_tracker**
 
 ### **Description**
 FlowFinder는 실시간 비디오에서 특정 객체를 선택하고, 배경과 분리하여 객체의 움직임을 추적하는 도구입니다.  
