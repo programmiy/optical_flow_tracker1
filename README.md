@@ -3,6 +3,12 @@
 
 # **optical_flow_tracker**
 
+## daily record
+
+https://velog.io/@programmiy/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89-optical_flow_tracker%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-
+
+
+
 ### **Description**
 FlowFinder는 실시간 비디오에서 특정 객체를 선택하고, 배경과 분리하여 객체의 움직임을 추적하는 도구입니다.  
 군나르 파너백 알고리즘(Gunnar Farnebäck Optical Flow)을 활용하여, 사용자가 선택한 관심 영역(Region of Interest, ROI)의 움직임을 분석하고 추출합니다.
